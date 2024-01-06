@@ -1,0 +1,9 @@
+What i cleaned and what i changed:
+
+--> Better looking Club Name information
+
+--> More Readable Contract Columns
+
+--> For weights columns i convert LBS to Kg
+
+--> For Heights columns i convert Feet to cm
